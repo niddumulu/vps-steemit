@@ -1,5 +1,5 @@
 # vps-steemit
-cobacoba
+https://codeanywhere.com/editor/#
 
 pip install steem
 $ git clone https://github.com/steemit/steem-python
